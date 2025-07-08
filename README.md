@@ -1,4 +1,4 @@
-# 🦾 Mechanical Task 2 – Automated Warehouse Robot
+# Mechanical Task 2 – Automated Warehouse Robot
 
 ![project](AutomatedWarehouse-screenshot.png)
 
@@ -47,7 +47,7 @@ The system is designed to operate fully autonomously — once powered on, it con
 ---
 
 ## 📂 Files Included
-- warehouse-robot.stl – 3D Design File
+- Mechanical-AutomatedWarehouse.stl – 3D Design File
 - AutomatedWarehouse-screenshot.png – Screenshot of the robotic design
 
 ---
