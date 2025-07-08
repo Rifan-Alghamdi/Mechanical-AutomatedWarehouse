@@ -1,4 +1,4 @@
-# Mechanical Task 2 – Automated Warehouse Robot
+# Automated Warehouse Robot
 
 ![project](AutomatedWarehouse-screenshot.png)
 
