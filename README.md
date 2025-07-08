@@ -1,6 +1,6 @@
 # 🦾 Mechanical Task 2 – Automated Warehouse Robot
 
-![project](AutomatedWarehouse-screenshot)
+![project](AutomatedWarehouse-screenshot.png)
 
 ## 📝 Description
 This project involves designing a robotic system to automate a food storage warehouse with no human interaction. The robot features a mechanical arm and conveyor belt system to move packages between storage racks and sorting stations.
@@ -48,7 +48,7 @@ The system is designed to operate fully autonomously — once powered on, it con
 
 ## 📂 Files Included
 - warehouse-robot.stl – 3D Design File
-- AutomatedWarehouse-screenshot – Screenshot of the robotic design
+- AutomatedWarehouse-screenshot.png – Screenshot of the robotic design
 
 ---
 
